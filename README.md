@@ -1,6 +1,6 @@
 # Python-Projects
 
-This are mini projects.
+These are mini projects.
 
 First is Digital Clock
 In this project I have used Tkinter GUI library of python. This code will display currunt time.
